@@ -1,6 +1,7 @@
 ---
-title: Welcome to the Bureau, Agent
+title: Bureau of Transdimensional Control
 ---
+# Welcome to the Bureau, Agent
 
 Welcome to our **Call of Cthulhu 7th Edition** campaign set in the groovy, paranoid 1970s! This knowledge base serves as your player resource hub for our **West Marches-style** investigation series.
 
