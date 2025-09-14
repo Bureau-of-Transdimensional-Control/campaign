@@ -9,8 +9,6 @@ Welcome to our **Call of Cthulhu 7th Edition** campaign set in the groovy, paran
 
 **System**: Call of Cthulhu 7th Edition  
 **Setting**: United States, 1970s  
-**Style**: West Marches episodic investigations  
-**Tone**: Cosmic horror meets period paranoia
 
 You play as agents of the **Bureau of Transdimensional Control (BTC)**, a hastily-formed interagency task force investigating reality-bending incidents across America. Each session focuses on a standalone "case file," allowing players to drop in and out freely while building a shared universe of mysteries and horrors.
 
