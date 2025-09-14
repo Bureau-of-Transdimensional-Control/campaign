@@ -1,11 +1,9 @@
-## CASE FILE No.72-09-008: ROLLA MORGUE INCIDENT
+## CASE FILE No.72-09-08-1: ROLLA MORGUE INCIDENT
 
 ### BRIEFING
 
 **DATE:** September 8, 1972  
-**CLASSIFICATION:** RESTRICTED  
-**PRIORITY:** URGENT  
-**LOCATION:** Rolla General Hospital Morgue, Rolla, Missouri
+**LOCATION:** Rolla General Hospital Morgue, Rolla, Missouri 
 
 **SITUATION SUMMARY:**  
 Local law enforcement has reported multiple cadaver disappearances from the Rolla General Hospital morgue facility over the past 72 hours. Standard police investigation has yielded no conventional explanation. Night security reported possible animal intrusion (puma or lynx). Local PD has requested wildlife specialist assistance.
@@ -19,6 +17,8 @@ Local law enforcement has reported multiple cadaver disappearances from the Roll
 - Maintain civilian information blackout per standard protocols
 
 **AUTHORIZED EQUIPMENT:** Standard field kit
+
+---
 
 ### FIELD REPORT
 
