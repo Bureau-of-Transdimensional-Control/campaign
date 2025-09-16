@@ -1,3 +1,7 @@
+---
+title: Game system
+---
+
 This is a short guide to playing Call of Cthulhu 7th edition. Here we will examine key mechanics, the dice engine, familiarize ourselves with the character sheet and the character creation process.
 
 # Key Mechanics
@@ -24,4 +28,7 @@ The player rolled 54. This falls in the interval between 65 and 32, meaning it's
 | Persuade (10%)    |     |     |      |       |
 
 In this case **the** character did not develop the skill and can **only** use the base value, which in this case is 10. The player rolled 37, meaning it's a **failure**.
+
+# Combat
+Please read [[Combat system]] note.
 

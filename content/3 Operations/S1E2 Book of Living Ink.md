@@ -1,4 +1,4 @@
-## CASE FILE No.72-09-15-1: Book of Living Ink
+## CASE FILE #72-09-15-1: Book of Living Ink
 
 ### BRIEFING
 

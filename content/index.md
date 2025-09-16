@@ -16,7 +16,7 @@ You play as agents of the **Bureau of Transdimensional Control (BTC)**, a hastil
 
 This site organizes campaign information like a **knowledge garden**—interconnected pages that grow and evolve as we play. You'll find:
 
-- **[[The Game]]** - System rules, mechanics, and 1970s setting guides
+- **[[Quick guide to Call of Cthulhu|The Game]]** - System rules, mechanics, and 1970s setting guides
 - **[[Agents]]** - Player character profiles, sheets, and service records
 - **[[HQ]]** - Bureau personnel, facilities, and standard operating procedures
 - **[[Operations]]** - Case files organized by incident number and status
