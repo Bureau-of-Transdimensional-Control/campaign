@@ -1,4 +1,4 @@
-## CASE FILE No.72-09-08-1: ROLLA MORGUE INCIDENT
+## CASE FILE #72-09-08-1: ROLLA MORGUE INCIDENT
 
 ### BRIEFING
 
@@ -49,12 +49,14 @@ Lead entity attempted verbal communication in what appeared to be French. Team i
 
 Engagement resulted in termination of two (2) entities. Third entity escaped via unmapped tunnel branch. No team casualties reported. Minor lacerations treated on-site.
 
+---
+
 ### OPERATIONAL RESULTS
 
 **EVIDENCE SECURED:**
 
 - Two (2) intact humanoid specimens (transferred to Research Division)
-- Photographic documentation (3 rolls, currently in processing)
+- Photographic documentation
 
 **CONTAINMENT ACTIONS:**
 
