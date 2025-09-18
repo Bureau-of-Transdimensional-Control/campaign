@@ -103,4 +103,80 @@ Thrown weapons can be dodged.
 Half of DB is applied to thrown weapons, bows and slings.
 
 # Firearms
-tbd... it's quite a big topic.
+Basic mechanics for using firearms. Shooting gives +50 to DEX for determining turn order. The only possible reaction to gunfire is to dive for cover or fall prone, but this reaction removes the ability to attack on the next turn.
+
+## Range
+Depending on shooting range, different success levels may be required.
+
+- Within base range - regular success
+- Up to 2x base range - hard success
+- Up to 4x base range - extreme success
+
+For extreme success checks, impaling damage is only achieved on a roll of 01.
+
+## Modifiers
+### Dive for Cover (Penalty die)
+The attack target dives to take cover behind an object, simply lies on the floor, or attempts to get below the barrel line. The target makes a dodge check, and on success adds 1 penalty die to the attacker's roll.
+
+This target reaction cancels the next attack of whoever used it, regardless of whether the character has acted this round.
+
+Nothing prevents using this reaction every turn.
+
+### Cover and Concealment (Penalty die)
+Cover may not stop a bullet, but it definitely interferes with aimed fire.
+
+If the target is hidden behind an object by at least half, this also gives at least 1 penalty die.
+
+If a fully concealed character takes any action that allows at least part of the character to be seen, then that character can be targeted by shots this round.
+
+### Aiming (Bonus die)
+A character can spend their turn aiming. Next round, if the character took no damage and didn't move, the character gets a bonus die on the shot check.
+
+Only one bonus can be gained from aiming.
+
+### Fast-Moving Targets (Penalty die)
+If a target with MOV 8+ is constantly moving, it's harder to hit.
+
+### Target Size (Bonus or Penalty die)
+If target size is -2 and lower, it's harder to hit. Penalty die. If target size is 4 and higher, it's easier to hit. Bonus die.
+
+### Reloading (Possible Penalty die)
+Reloading takes time, usually 1 round.
+
+However, it's possible to load exactly one cartridge and shoot with a penalty die.
+
+### Multiple Shots from Pistols (Penalty die)
+Most pistols can fire 2 or 3 times per attack.
+
+For each shot in this case, the skill check is made separately with a penalty die.
+
+### Shooting into Melee (Penalty die)
+To avoid shotting an ally requires greater skill. One penalty die is added.
+
+If the roll result is a fumble, the hit occurs on an ally. If there are multiple allies, the hit occurs on the one with the lowest Luck.
+
+## Automatic Fire
+There are three modes:
+
+- Full-auto (fires the entire clip at once)
+    - player declares the number of rounds to be fired
+    - number of bullets is divided into volleys
+    - volley size is up to Firearms SMG/MG divided by 10, rounded down
+        - Firearms SMG 47 -> max volley size 4
+    - each volley requires a fresh roll
+    - first volley - usual rules
+    - Nth volley - +(N-1) penalty dice
+        - if there are more than 2 penalty dice, difficulty increases by one step
+    - resolve
+        - regular success - half the bullets (rounded down, min 1) deal damage
+        - extreme success - all bullets in the volley deal damage, with the first half (rounded down, min 1) impaling
+- Burst (fires several bullets per trigger pull, i.e. 2-3 bullets)
+    - treated as a single volley
+    - skill does not affect volley size
+- Semi-automatic (fires one bullet at a time)
+    - uses the same principle as handguns for firing multiple times
+
+## Malfunctions
+Firearms can jam or misfire. This occurs if a skill roll is higher than the malfunction score.
+If the weapon is a revolver, break-open gun, or bolt-action rifle, the problem is just a dud round.
+For lever-action rifles, a Mechanical Repair or Firearms skill check is required to fix a malfunction.
