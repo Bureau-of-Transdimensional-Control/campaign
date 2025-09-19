@@ -1,4 +1,9 @@
-## CASE FILE #72-09-08-1: ROLLA MORGUE INCIDENT
+---
+aliases:
+  - 72-09-08-1
+---
+
+## CASE FILE 72-09-08-1: ROLLA MORGUE INCIDENT
 
 ### BRIEFING
 
@@ -9,7 +14,6 @@
 Local law enforcement has reported multiple cadaver disappearances from the Rolla General Hospital morgue facility over the past 72 hours. Standard police investigation has yielded no conventional explanation. Night security reported possible animal intrusion (puma or lynx). Local PD has requested wildlife specialist assistance.
 
 **MISSION PARAMETERS:**
-
 - Establish secure perimeter at morgue facility
 - Interview hospital personnel and security staff
 - Determine method and motive for body removal
@@ -21,7 +25,6 @@ Local law enforcement has reported multiple cadaver disappearances from the Roll
 ---
 
 ### FIELD REPORT
-
 **SUBMITTED BY:** [[Eric Prise]], [[Dark T]]  
 **DATE OF SUBMISSION:** September 9, 1972  
 
@@ -38,7 +41,6 @@ Passage led to subterranean tunnel system of considerable age. Tunnels showed ev
 At approximately 0115 hours, team encountered three (3) unidentified humanoid entities in tunnel section. Entities were discovered actively consuming human remains, identified as missing morgue cadavers.
 
 Entities displayed following characteristics:
-
 - Canine-like facial features with pronounced dentition
 - Elongated limbs terminating in claw-like appendages
 - Bipedal locomotion with occasional quadrupedal movement
@@ -54,12 +56,10 @@ Engagement resulted in termination of two (2) entities. Third entity escaped via
 ### OPERATIONAL RESULTS
 
 **EVIDENCE SECURED:**
-
-- Two (2) intact humanoid specimens (transferred to Research Division)
-- Photographic documentation
+- Two (2) intact humanoid specimens (Fridge Unit, [[72-09-08-1-A]])
+- Photographic documentation (Evidence locker [[72-09-08-1-B]])
 
 **CONTAINMENT ACTIONS:**
-
 - Morgue tunnel entrance sealed with reinforced concrete per field team recommendation
 - Recovered human remains returned to morgue facility for proper processing
 

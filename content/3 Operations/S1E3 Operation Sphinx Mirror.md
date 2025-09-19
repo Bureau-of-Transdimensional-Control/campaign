@@ -1,4 +1,9 @@
-# CASE FILE #72-09-22-1: Operation Sphinx Mirror
+---
+aliases:
+  - 72-09-22-1
+---
+
+# CASE FILE 72-09-22-1: Operation Sphinx Mirror
 
 ### BRIEFING
 
