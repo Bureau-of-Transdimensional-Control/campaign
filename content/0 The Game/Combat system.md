@@ -90,6 +90,18 @@ Half of DB is applied to thrown weapons, bows and slings.
 # Firearms
 Basic mechanics for using firearms. Shooting gives +50 to DEX for determining turn order. The only possible reaction to gunfire is to dive for cover or fall prone, but this reaction removes the ability to attack on the next turn.
 
+## TL;DR
+
+| Difficulty level         | Bonus die             | Penalty die                 |
+| ------------------------ | --------------------- | --------------------------- |
+| Regular: normal range    | Aiming for 1 round    | Target diving for cover     |
+| Hard: Long range         | Point blank           | Fast-moving target MOV 8+   |
+| Extreme: Very long range | Large target Build 4+ | Partial concealment (50%+)  |
+|                          |                       | Small target Build -2       |
+|                          |                       | Multiple handgun shots      |
+|                          |                       | Loading and firing one shot |
+|                          |                       | Firing to melee             |
+
 ## Range
 Depending on shooting range, different success levels may be required.
 - Within base range - regular success
