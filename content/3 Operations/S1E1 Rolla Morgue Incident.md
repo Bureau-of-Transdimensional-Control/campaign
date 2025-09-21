@@ -2,7 +2,6 @@
 aliases:
   - 72-09-08-1
 ---
-
 ## CASE FILE 72-09-08-1: ROLLA MORGUE INCIDENT
 
 ### BRIEFING
