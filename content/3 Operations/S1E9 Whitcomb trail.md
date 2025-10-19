@@ -1,23 +1,21 @@
 ---
-draft: false
-aliases:
-  - 72-10-14-1
+draft: true
 ---
 
-# CASE FILE 72-10-14-1: Port Duvalier
+# CASE FILE 72-11-25-A: Whitcomb trail
 
 ### BRIEFING
 
-**DATE:** October 14th, 1972  
-**LOCATION:** New Orleans, Louisiana
+**DATE:** Month Date, 19XX  
+**LOCATION:** City, State
 
 **SITUATION SUMMARY:**  
-
+Couple of words about the case lead and premise.
 
 **MISSION PARAMETERS:**
+Goals of the mission.
 
-
-**AUTHORIZED EQUIPMENT:** Standard field kit
+**AUTHORIZED EQUIPMENT:** Standard field kit, include here special equipment if any were granted
 
 ---
 

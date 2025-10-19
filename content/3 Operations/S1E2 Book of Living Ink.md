@@ -1,3 +1,8 @@
+---
+aliases:
+  - 72-09-15-1
+---
+
 ## CASE FILE #72-09-15-1: Book of Living Ink
 
 ### BRIEFING

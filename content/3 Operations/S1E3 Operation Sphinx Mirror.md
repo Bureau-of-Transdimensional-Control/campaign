@@ -64,12 +64,12 @@ Emergency extraction initiated via projectile disruption of optical system. Port
 
 - Sand samples exhibiting non-terrestrial properties _(Evidence Locker [[72-09-22-1-A]])_
 - Photographic documentation of projection apparatus _(Evidence Locker [[72-09-22-1-B]])_
-- Six (6) photographic slides recovered from "Sphinx 400" projection carousel *(Evidence Locker [[72-09-22-1-С]])*  
+- Six (6) photographic slides recovered from "Sphinx 400" projection carousel *(Evidence Locker [[72-09-22-1-C]])*  
 - Fragmented remains of "Sphinx 400" projection apparatus *(Evidence Locker [[72-09-22-1-D]])*  
 
 **MEDICAL STATUS:** Four civilian subjects hospitalized for severe dehydration and exposure. Cover story: Heat exhaustion during unauthorized exploration of industrial site. All subjects experiencing mild amnesia regarding "dream-like" experiences in "endless desert." Psychiatric evaluation recommended but not pursued to avoid further attention.
 
-**ADDENDUM:** Historical research indicates facility connection to 1969 disappearance of Dr. Gerald Whitcomb.
+**ADDENDUM:** Historical research indicates facility connection to 1969 disappearance of Dr. Stanley Whitcomb.
 
 ---
 
